@@ -3,12 +3,15 @@ const webpack = require('webpack');
 const webpackDevMiddleware = require('webpack-dev-middleware');
 const webpackHotMiddleware = require('webpack-hot-middleware');
 const webpackHotServerMiddleware = require('webpack-hot-server-middleware');
+const api = require('./routes/api');
 
 const config = require('./config');
 const webpackConfig = require('./webpack.dev.config.js');
 
 const compiler = webpack(webpackConfig);
 const app = express();
+
+app.use('/api', api);
 
 app.use(
   webpackDevMiddleware(compiler, {

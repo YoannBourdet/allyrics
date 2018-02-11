@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node server.dev.js",
+    "dev": "nodemon --watch server.dev.js --watch routes server.dev.js",
     "start": "node server.prod.js"
   },
   "repository": {
@@ -24,6 +24,7 @@
     "babel-loader": "^7.1.2",
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "babel-preset-env": "^1.6.1",
+    "babel-preset-es2017": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "eslint": "^4.17.0",
@@ -31,6 +32,7 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.6.1",
+    "nodemon": "^1.14.12",
     "redux-logger": "^3.0.6",
     "webpack": "^3.10.0",
     "webpack-dev-middleware": "^2.0.4",
@@ -44,6 +46,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
-    "redux": "^3.7.2"
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
   }
 }

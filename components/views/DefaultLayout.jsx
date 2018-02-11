@@ -2,15 +2,13 @@ import React from 'react';
 import { Provider } from 'react-redux';
 import { applyMiddleware, combineReducers, createStore } from 'redux';
 import logger from 'redux-logger';
+import thunk from 'redux-thunk';
 import { filter } from '../../reducers/';
 import App from '../common/App';
 
 const reducers = combineReducers({ filter });
-const store = createStore(reducers, applyMiddleware(logger));
-const preloadedState = JSON.stringify(store.getState()).replace(
-  /</g,
-  '\\u003c',
-);
+const store = createStore(reducers, applyMiddleware(thunk, logger));
+const preloadedState = JSON.stringify(store.getState()).replace(/</g, '\\u003c');
 const preloadedStateString = `window.__INIT__=${preloadedState}`;
 
 const DefaultLayout = () => (
