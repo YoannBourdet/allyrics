@@ -1,4 +1,4 @@
-import serviceSearch from '../services/search';
+import serviceSearch from '../services/client/search';
 
 export const MAKE_SEARCH = 'MAKE_SEARCH';
 

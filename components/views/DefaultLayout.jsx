@@ -3,10 +3,10 @@ import { Provider } from 'react-redux';
 import { applyMiddleware, combineReducers, createStore } from 'redux';
 import logger from 'redux-logger';
 import thunk from 'redux-thunk';
-import { filter } from '../../reducers/';
+import { filter, search } from '../../reducers/';
 import App from '../common/App';
 
-const reducers = combineReducers({ filter });
+const reducers = combineReducers({ filter, search });
 const store = createStore(reducers, applyMiddleware(thunk, logger));
 const preloadedState = JSON.stringify(store.getState()).replace(/</g, '\\u003c');
 const preloadedStateString = `window.__INIT__=${preloadedState}`;

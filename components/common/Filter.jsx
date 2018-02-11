@@ -18,7 +18,12 @@ export default class Filter extends Component {
   }
 
   render() {
-    return <input type="text" placeholder="Search" onChange={e => this.handleOnChange(e)} />;
+    return [
+      <div style={{ margin: '30px 0' }} key="filter-1">
+        <input type="text" placeholder="Search" onChange={e => this.handleOnChange(e)} />
+      </div>,
+      <hr key="filter-2" />,
+    ];
   }
 }
 
