@@ -1,6 +1,3 @@
-import serviceSearch from '../services/client/search';
+export const UPDATE_SEARCH = 'UPDATE_SEARCH';
 
-export const MAKE_SEARCH = 'MAKE_SEARCH';
-
-export const makeSearch = value => dispatch =>
-  serviceSearch(value).then(data => dispatch({ type: MAKE_SEARCH, hits: data }));
+export const update = value => ({ type: UPDATE_SEARCH, value });

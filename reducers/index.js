@@ -1,2 +1,2 @@
-export filter from './filter';
 export search from './search';
+export hits from './hits';

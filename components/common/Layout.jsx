@@ -7,7 +7,8 @@ export default class Layout extends Component {
     return [
       <h1 key="layout-1">Search in Genius</h1>,
       <Filter key="layout-2" />,
-      <List key="layout-3" />,
+      <hr key="layout-3" />,
+      <List key="layout-4" />,
     ];
   }
 }

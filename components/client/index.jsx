@@ -4,13 +4,13 @@ import { Provider } from 'react-redux';
 import { applyMiddleware, combineReducers, createStore } from 'redux';
 import logger from 'redux-logger';
 import thunk from 'redux-thunk';
-import { filter, search } from '../../reducers/';
+import { search, hits } from '../../reducers/';
 import App from '../common/App';
 
 const preloadedState = window.__INIT__;
 
 const store = createStore(
-  combineReducers({ filter, search }),
+  combineReducers({ search, hits }),
   preloadedState,
   applyMiddleware(thunk, logger),
 );
