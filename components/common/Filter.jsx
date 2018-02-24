@@ -36,9 +36,10 @@ export default class Filter extends Component {
   }
 
   // https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js
-  fetchHits = debounce(value => {
+  fetchHits = debounce(async value => {
     const { actions } = this.props;
-    actions.hits.fetch(value).then(() => actions.history.push(value));
+    await actions.hits.fetch(value);
+    actions.history.push(value);
   }, 300);
 
   render() {
