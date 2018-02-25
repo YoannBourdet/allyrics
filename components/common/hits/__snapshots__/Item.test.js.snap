@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleTitleTest renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+    }
+  }
+>
+  <img
+    alt=""
+    src="http://example.com"
+  />
+  <p>
+    A title
+  </p>
+</div>
+`;
