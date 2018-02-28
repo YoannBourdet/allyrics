@@ -23,7 +23,6 @@ export default class Filter extends Component {
     actions.history.replace(value);
     actions.history.onPop(({ state: { search } }) => {
       actions.search.update(search);
-      actions.hits.fetch(search);
     });
   }
 
@@ -32,7 +31,7 @@ export default class Filter extends Component {
     const { value } = e.target;
     const { actions } = this.props;
     actions.search.update(value);
-    this.fetchHits(value);
+    actions.history.push(value);
   }
 
   // https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js
