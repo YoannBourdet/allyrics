@@ -6,8 +6,6 @@ import * as actionSearch from '../../actions/search';
 import * as actionHistory from '../../actions/history';
 import * as actionHits from '../../actions/hits';
 
-import { debounce } from '../../utils';
-
 const mapDispatchToProps = dispatch => ({
   actions: {
     search: bindActionCreators(actionSearch, dispatch),
@@ -27,19 +25,11 @@ export default class Filter extends Component {
   }
 
   handleOnChange(e) {
-    e.persist();
     const { value } = e.target;
     const { actions } = this.props;
     actions.search.update(value);
     actions.history.push(value);
   }
-
-  // https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js
-  fetchHits = debounce(async value => {
-    const { actions } = this.props;
-    await actions.hits.fetch(value);
-    actions.history.push(value);
-  }, 300);
 
   render() {
     const { value } = this.props;
