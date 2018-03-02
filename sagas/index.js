@@ -2,7 +2,7 @@ import { call, put, take, takeLatest, all, fork } from 'redux-saga/effects';
 import serviceSearch from '../services/client/search';
 
 /*
- * Loaders
+ * Workers
  */
 
 function* fetchList({ value }) {
