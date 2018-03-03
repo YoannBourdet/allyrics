@@ -1,7 +1,13 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import Item from './Item';
+import Loadable from 'react-loadable';
+import Loading from '../Loading';
+
+const Item = Loadable({
+  loader: () => import('./Item'),
+  loading: Loading,
+});
 
 @connect(({ hits: { datas } }) => ({ datas }))
 export default class HitsList extends Component {

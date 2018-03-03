@@ -1,14 +1,18 @@
-import React, { Component } from 'react';
-import Filter from './Filter';
-import List from './hits/List';
+import React from 'react';
+import Loadable from 'react-loadable';
+import Loading from './Loading';
 
-export default class Layout extends Component {
-  render() {
-    return [
-      <h1 key="layout-1">Search in Genius</h1>,
-      <Filter key="layout-2" />,
-      <hr key="layout-3" />,
-      <List key="layout-4" />,
-    ];
-  }
-}
+const LayoutCore = Loadable.Map({
+  loader: {
+    Filter: () => import('./Filter'),
+    HitList: () => import('./hits/List'),
+  },
+  loading: Loading,
+  render(loaded) {
+    const Filter = loaded.Filter.default;
+    const HitList = loaded.HitList.default;
+    return [<h1>Search in Genius</h1>, <Filter />, <HitList />];
+  },
+});
+
+export default () => <LayoutCore />;
