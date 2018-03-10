@@ -1,0 +1,2716 @@
+{
+  "./Layout": [
+    {
+      "id": 82,
+      "name": "./components/common/Layout.jsx",
+      "file": "0.js"
+    },
+    {
+      "id": 82,
+      "name": "./components/common/Layout.jsx",
+      "file": "0.js.map"
+    }
+  ],
+  "./Item": [
+    {
+      "id": 195,
+      "name": "./components/common/hits/Item.jsx",
+      "file": "1.js"
+    },
+    {
+      "id": 195,
+      "name": "./components/common/hits/Item.jsx",
+      "file": "1.js.map"
+    }
+  ],
+  "./_wks-define": [
+    {
+      "id": 161,
+      "name": "./node_modules/core-js/library/modules/_wks-define.js",
+      "file": "2.js"
+    },
+    {
+      "id": 161,
+      "name": "./node_modules/core-js/library/modules/_wks-define.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 161,
+      "name": "./node_modules/core-js/library/modules/_wks-define.js",
+      "file": "3.js"
+    },
+    {
+      "id": 161,
+      "name": "./node_modules/core-js/library/modules/_wks-define.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../../modules/_wks-ext": [
+    {
+      "id": 162,
+      "name": "./node_modules/core-js/library/modules/_wks-ext.js",
+      "file": "2.js"
+    },
+    {
+      "id": 162,
+      "name": "./node_modules/core-js/library/modules/_wks-ext.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 162,
+      "name": "./node_modules/core-js/library/modules/_wks-ext.js",
+      "file": "3.js"
+    },
+    {
+      "id": 162,
+      "name": "./node_modules/core-js/library/modules/_wks-ext.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./_object-gopd": [
+    {
+      "id": 163,
+      "name": "./node_modules/core-js/library/modules/_object-gopd.js",
+      "file": "2.js"
+    },
+    {
+      "id": 163,
+      "name": "./node_modules/core-js/library/modules/_object-gopd.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 163,
+      "name": "./node_modules/core-js/library/modules/_object-gopd.js",
+      "file": "3.js"
+    },
+    {
+      "id": 163,
+      "name": "./node_modules/core-js/library/modules/_object-gopd.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./_object-gopn": [
+    {
+      "id": 164,
+      "name": "./node_modules/core-js/library/modules/_object-gopn.js",
+      "file": "2.js"
+    },
+    {
+      "id": 164,
+      "name": "./node_modules/core-js/library/modules/_object-gopn.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 164,
+      "name": "./node_modules/core-js/library/modules/_object-gopn.js",
+      "file": "3.js"
+    },
+    {
+      "id": 164,
+      "name": "./node_modules/core-js/library/modules/_object-gopn.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../helpers/typeof": [
+    {
+      "id": 165,
+      "name": "./node_modules/babel-runtime/helpers/typeof.js",
+      "file": "2.js"
+    },
+    {
+      "id": 165,
+      "name": "./node_modules/babel-runtime/helpers/typeof.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 165,
+      "name": "./node_modules/babel-runtime/helpers/typeof.js",
+      "file": "3.js"
+    },
+    {
+      "id": 165,
+      "name": "./node_modules/babel-runtime/helpers/typeof.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../../modules/es6.object.create": [
+    {
+      "id": 166,
+      "name": "./node_modules/core-js/library/modules/es6.object.create.js",
+      "file": "2.js"
+    },
+    {
+      "id": 166,
+      "name": "./node_modules/core-js/library/modules/es6.object.create.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 166,
+      "name": "./node_modules/core-js/library/modules/es6.object.create.js",
+      "file": "3.js"
+    },
+    {
+      "id": 166,
+      "name": "./node_modules/core-js/library/modules/es6.object.create.js",
+      "file": "3.js.map"
+    }
+  ],
+  "core-js/library/fn/object/create": [
+    {
+      "id": 167,
+      "name": "./node_modules/core-js/library/fn/object/create.js",
+      "file": "2.js"
+    },
+    {
+      "id": 167,
+      "name": "./node_modules/core-js/library/fn/object/create.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 167,
+      "name": "./node_modules/core-js/library/fn/object/create.js",
+      "file": "3.js"
+    },
+    {
+      "id": 167,
+      "name": "./node_modules/core-js/library/fn/object/create.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../core-js/object/create": [
+    {
+      "id": 168,
+      "name": "./node_modules/babel-runtime/core-js/object/create.js",
+      "file": "2.js"
+    },
+    {
+      "id": 168,
+      "name": "./node_modules/babel-runtime/core-js/object/create.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 168,
+      "name": "./node_modules/babel-runtime/core-js/object/create.js",
+      "file": "3.js"
+    },
+    {
+      "id": 168,
+      "name": "./node_modules/babel-runtime/core-js/object/create.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./_set-proto": [
+    {
+      "id": 169,
+      "name": "./node_modules/core-js/library/modules/_set-proto.js",
+      "file": "2.js"
+    },
+    {
+      "id": 169,
+      "name": "./node_modules/core-js/library/modules/_set-proto.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 169,
+      "name": "./node_modules/core-js/library/modules/_set-proto.js",
+      "file": "3.js"
+    },
+    {
+      "id": 169,
+      "name": "./node_modules/core-js/library/modules/_set-proto.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../../modules/es6.object.set-prototype-of": [
+    {
+      "id": 170,
+      "name": "./node_modules/core-js/library/modules/es6.object.set-prototype-of.js",
+      "file": "2.js"
+    },
+    {
+      "id": 170,
+      "name": "./node_modules/core-js/library/modules/es6.object.set-prototype-of.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 170,
+      "name": "./node_modules/core-js/library/modules/es6.object.set-prototype-of.js",
+      "file": "3.js"
+    },
+    {
+      "id": 170,
+      "name": "./node_modules/core-js/library/modules/es6.object.set-prototype-of.js",
+      "file": "3.js.map"
+    }
+  ],
+  "core-js/library/fn/object/set-prototype-of": [
+    {
+      "id": 171,
+      "name": "./node_modules/core-js/library/fn/object/set-prototype-of.js",
+      "file": "2.js"
+    },
+    {
+      "id": 171,
+      "name": "./node_modules/core-js/library/fn/object/set-prototype-of.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 171,
+      "name": "./node_modules/core-js/library/fn/object/set-prototype-of.js",
+      "file": "3.js"
+    },
+    {
+      "id": 171,
+      "name": "./node_modules/core-js/library/fn/object/set-prototype-of.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../core-js/object/set-prototype-of": [
+    {
+      "id": 172,
+      "name": "./node_modules/babel-runtime/core-js/object/set-prototype-of.js",
+      "file": "2.js"
+    },
+    {
+      "id": 172,
+      "name": "./node_modules/babel-runtime/core-js/object/set-prototype-of.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 172,
+      "name": "./node_modules/babel-runtime/core-js/object/set-prototype-of.js",
+      "file": "3.js"
+    },
+    {
+      "id": 172,
+      "name": "./node_modules/babel-runtime/core-js/object/set-prototype-of.js",
+      "file": "3.js.map"
+    }
+  ],
+  "babel-runtime/helpers/inherits": [
+    {
+      "id": 173,
+      "name": "./node_modules/babel-runtime/helpers/inherits.js",
+      "file": "2.js"
+    },
+    {
+      "id": 173,
+      "name": "./node_modules/babel-runtime/helpers/inherits.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 173,
+      "name": "./node_modules/babel-runtime/helpers/inherits.js",
+      "file": "3.js"
+    },
+    {
+      "id": 173,
+      "name": "./node_modules/babel-runtime/helpers/inherits.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../../modules/es7.symbol.observable": [
+    {
+      "id": 174,
+      "name": "./node_modules/core-js/library/modules/es7.symbol.observable.js",
+      "file": "2.js"
+    },
+    {
+      "id": 174,
+      "name": "./node_modules/core-js/library/modules/es7.symbol.observable.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 174,
+      "name": "./node_modules/core-js/library/modules/es7.symbol.observable.js",
+      "file": "3.js"
+    },
+    {
+      "id": 174,
+      "name": "./node_modules/core-js/library/modules/es7.symbol.observable.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../../modules/es7.symbol.async-iterator": [
+    {
+      "id": 175,
+      "name": "./node_modules/core-js/library/modules/es7.symbol.async-iterator.js",
+      "file": "2.js"
+    },
+    {
+      "id": 175,
+      "name": "./node_modules/core-js/library/modules/es7.symbol.async-iterator.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 175,
+      "name": "./node_modules/core-js/library/modules/es7.symbol.async-iterator.js",
+      "file": "3.js"
+    },
+    {
+      "id": 175,
+      "name": "./node_modules/core-js/library/modules/es7.symbol.async-iterator.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./_object-gopn-ext": [
+    {
+      "id": 176,
+      "name": "./node_modules/core-js/library/modules/_object-gopn-ext.js",
+      "file": "2.js"
+    },
+    {
+      "id": 176,
+      "name": "./node_modules/core-js/library/modules/_object-gopn-ext.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 176,
+      "name": "./node_modules/core-js/library/modules/_object-gopn-ext.js",
+      "file": "3.js"
+    },
+    {
+      "id": 176,
+      "name": "./node_modules/core-js/library/modules/_object-gopn-ext.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./_is-array": [
+    {
+      "id": 177,
+      "name": "./node_modules/core-js/library/modules/_is-array.js",
+      "file": "2.js"
+    },
+    {
+      "id": 177,
+      "name": "./node_modules/core-js/library/modules/_is-array.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 177,
+      "name": "./node_modules/core-js/library/modules/_is-array.js",
+      "file": "3.js"
+    },
+    {
+      "id": 177,
+      "name": "./node_modules/core-js/library/modules/_is-array.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./_enum-keys": [
+    {
+      "id": 178,
+      "name": "./node_modules/core-js/library/modules/_enum-keys.js",
+      "file": "2.js"
+    },
+    {
+      "id": 178,
+      "name": "./node_modules/core-js/library/modules/_enum-keys.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 178,
+      "name": "./node_modules/core-js/library/modules/_enum-keys.js",
+      "file": "3.js"
+    },
+    {
+      "id": 178,
+      "name": "./node_modules/core-js/library/modules/_enum-keys.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./_meta": [
+    {
+      "id": 179,
+      "name": "./node_modules/core-js/library/modules/_meta.js",
+      "file": "2.js"
+    },
+    {
+      "id": 179,
+      "name": "./node_modules/core-js/library/modules/_meta.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 179,
+      "name": "./node_modules/core-js/library/modules/_meta.js",
+      "file": "3.js"
+    },
+    {
+      "id": 179,
+      "name": "./node_modules/core-js/library/modules/_meta.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../../modules/es6.symbol": [
+    {
+      "id": 180,
+      "name": "./node_modules/core-js/library/modules/es6.symbol.js",
+      "file": "2.js"
+    },
+    {
+      "id": 180,
+      "name": "./node_modules/core-js/library/modules/es6.symbol.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 180,
+      "name": "./node_modules/core-js/library/modules/es6.symbol.js",
+      "file": "3.js"
+    },
+    {
+      "id": 180,
+      "name": "./node_modules/core-js/library/modules/es6.symbol.js",
+      "file": "3.js.map"
+    }
+  ],
+  "core-js/library/fn/symbol": [
+    {
+      "id": 181,
+      "name": "./node_modules/core-js/library/fn/symbol/index.js",
+      "file": "2.js"
+    },
+    {
+      "id": 181,
+      "name": "./node_modules/core-js/library/fn/symbol/index.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 181,
+      "name": "./node_modules/core-js/library/fn/symbol/index.js",
+      "file": "3.js"
+    },
+    {
+      "id": 181,
+      "name": "./node_modules/core-js/library/fn/symbol/index.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../core-js/symbol": [
+    {
+      "id": 182,
+      "name": "./node_modules/babel-runtime/core-js/symbol.js",
+      "file": "2.js"
+    },
+    {
+      "id": 182,
+      "name": "./node_modules/babel-runtime/core-js/symbol.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 182,
+      "name": "./node_modules/babel-runtime/core-js/symbol.js",
+      "file": "3.js"
+    },
+    {
+      "id": 182,
+      "name": "./node_modules/babel-runtime/core-js/symbol.js",
+      "file": "3.js.map"
+    }
+  ],
+  "core-js/library/fn/symbol/iterator": [
+    {
+      "id": 183,
+      "name": "./node_modules/core-js/library/fn/symbol/iterator.js",
+      "file": "2.js"
+    },
+    {
+      "id": 183,
+      "name": "./node_modules/core-js/library/fn/symbol/iterator.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 183,
+      "name": "./node_modules/core-js/library/fn/symbol/iterator.js",
+      "file": "3.js"
+    },
+    {
+      "id": 183,
+      "name": "./node_modules/core-js/library/fn/symbol/iterator.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../core-js/symbol/iterator": [
+    {
+      "id": 184,
+      "name": "./node_modules/babel-runtime/core-js/symbol/iterator.js",
+      "file": "2.js"
+    },
+    {
+      "id": 184,
+      "name": "./node_modules/babel-runtime/core-js/symbol/iterator.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 184,
+      "name": "./node_modules/babel-runtime/core-js/symbol/iterator.js",
+      "file": "3.js"
+    },
+    {
+      "id": 184,
+      "name": "./node_modules/babel-runtime/core-js/symbol/iterator.js",
+      "file": "3.js.map"
+    }
+  ],
+  "babel-runtime/helpers/possibleConstructorReturn": [
+    {
+      "id": 185,
+      "name": "./node_modules/babel-runtime/helpers/possibleConstructorReturn.js",
+      "file": "2.js"
+    },
+    {
+      "id": 185,
+      "name": "./node_modules/babel-runtime/helpers/possibleConstructorReturn.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 185,
+      "name": "./node_modules/babel-runtime/helpers/possibleConstructorReturn.js",
+      "file": "3.js"
+    },
+    {
+      "id": 185,
+      "name": "./node_modules/babel-runtime/helpers/possibleConstructorReturn.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../../modules/es6.object.define-property": [
+    {
+      "id": 186,
+      "name": "./node_modules/core-js/library/modules/es6.object.define-property.js",
+      "file": "2.js"
+    },
+    {
+      "id": 186,
+      "name": "./node_modules/core-js/library/modules/es6.object.define-property.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 186,
+      "name": "./node_modules/core-js/library/modules/es6.object.define-property.js",
+      "file": "3.js"
+    },
+    {
+      "id": 186,
+      "name": "./node_modules/core-js/library/modules/es6.object.define-property.js",
+      "file": "3.js.map"
+    }
+  ],
+  "core-js/library/fn/object/define-property": [
+    {
+      "id": 187,
+      "name": "./node_modules/core-js/library/fn/object/define-property.js",
+      "file": "2.js"
+    },
+    {
+      "id": 187,
+      "name": "./node_modules/core-js/library/fn/object/define-property.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 187,
+      "name": "./node_modules/core-js/library/fn/object/define-property.js",
+      "file": "3.js"
+    },
+    {
+      "id": 187,
+      "name": "./node_modules/core-js/library/fn/object/define-property.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../core-js/object/define-property": [
+    {
+      "id": 188,
+      "name": "./node_modules/babel-runtime/core-js/object/define-property.js",
+      "file": "2.js"
+    },
+    {
+      "id": 188,
+      "name": "./node_modules/babel-runtime/core-js/object/define-property.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 188,
+      "name": "./node_modules/babel-runtime/core-js/object/define-property.js",
+      "file": "3.js"
+    },
+    {
+      "id": 188,
+      "name": "./node_modules/babel-runtime/core-js/object/define-property.js",
+      "file": "3.js.map"
+    }
+  ],
+  "babel-runtime/helpers/createClass": [
+    {
+      "id": 189,
+      "name": "./node_modules/babel-runtime/helpers/createClass.js",
+      "file": "2.js"
+    },
+    {
+      "id": 189,
+      "name": "./node_modules/babel-runtime/helpers/createClass.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 189,
+      "name": "./node_modules/babel-runtime/helpers/createClass.js",
+      "file": "3.js"
+    },
+    {
+      "id": 189,
+      "name": "./node_modules/babel-runtime/helpers/createClass.js",
+      "file": "3.js.map"
+    }
+  ],
+  "babel-runtime/helpers/classCallCheck": [
+    {
+      "id": 190,
+      "name": "./node_modules/babel-runtime/helpers/classCallCheck.js",
+      "file": "2.js"
+    },
+    {
+      "id": 190,
+      "name": "./node_modules/babel-runtime/helpers/classCallCheck.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 190,
+      "name": "./node_modules/babel-runtime/helpers/classCallCheck.js",
+      "file": "3.js"
+    },
+    {
+      "id": 190,
+      "name": "./node_modules/babel-runtime/helpers/classCallCheck.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./_object-sap": [
+    {
+      "id": 191,
+      "name": "./node_modules/core-js/library/modules/_object-sap.js",
+      "file": "2.js"
+    },
+    {
+      "id": 191,
+      "name": "./node_modules/core-js/library/modules/_object-sap.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 191,
+      "name": "./node_modules/core-js/library/modules/_object-sap.js",
+      "file": "3.js"
+    },
+    {
+      "id": 191,
+      "name": "./node_modules/core-js/library/modules/_object-sap.js",
+      "file": "3.js.map"
+    }
+  ],
+  "../../modules/es6.object.get-prototype-of": [
+    {
+      "id": 192,
+      "name": "./node_modules/core-js/library/modules/es6.object.get-prototype-of.js",
+      "file": "2.js"
+    },
+    {
+      "id": 192,
+      "name": "./node_modules/core-js/library/modules/es6.object.get-prototype-of.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 192,
+      "name": "./node_modules/core-js/library/modules/es6.object.get-prototype-of.js",
+      "file": "3.js"
+    },
+    {
+      "id": 192,
+      "name": "./node_modules/core-js/library/modules/es6.object.get-prototype-of.js",
+      "file": "3.js.map"
+    }
+  ],
+  "core-js/library/fn/object/get-prototype-of": [
+    {
+      "id": 193,
+      "name": "./node_modules/core-js/library/fn/object/get-prototype-of.js",
+      "file": "2.js"
+    },
+    {
+      "id": 193,
+      "name": "./node_modules/core-js/library/fn/object/get-prototype-of.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 193,
+      "name": "./node_modules/core-js/library/fn/object/get-prototype-of.js",
+      "file": "3.js"
+    },
+    {
+      "id": 193,
+      "name": "./node_modules/core-js/library/fn/object/get-prototype-of.js",
+      "file": "3.js.map"
+    }
+  ],
+  "babel-runtime/core-js/object/get-prototype-of": [
+    {
+      "id": 194,
+      "name": "./node_modules/babel-runtime/core-js/object/get-prototype-of.js",
+      "file": "2.js"
+    },
+    {
+      "id": 194,
+      "name": "./node_modules/babel-runtime/core-js/object/get-prototype-of.js",
+      "file": "2.js.map"
+    },
+    {
+      "id": 194,
+      "name": "./node_modules/babel-runtime/core-js/object/get-prototype-of.js",
+      "file": "3.js"
+    },
+    {
+      "id": 194,
+      "name": "./node_modules/babel-runtime/core-js/object/get-prototype-of.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./hits/List": [
+    {
+      "id": 196,
+      "name": "./components/common/hits/List.jsx",
+      "file": "2.js"
+    },
+    {
+      "id": 196,
+      "name": "./components/common/hits/List.jsx",
+      "file": "2.js.map"
+    }
+  ],
+  "./Filter": [
+    {
+      "id": 197,
+      "name": "./components/common/Filter.jsx",
+      "file": "3.js"
+    },
+    {
+      "id": 197,
+      "name": "./components/common/Filter.jsx",
+      "file": "3.js.map"
+    }
+  ],
+  "../../actions/history": [
+    {
+      "id": 198,
+      "name": "./actions/history.js",
+      "file": "3.js"
+    },
+    {
+      "id": 198,
+      "name": "./actions/history.js",
+      "file": "3.js.map"
+    }
+  ],
+  "./internal/utils": [
+    {
+      "id": 0,
+      "name": "./node_modules/redux-saga/es/internal/utils.js",
+      "file": "client.js"
+    },
+    {
+      "id": 0,
+      "name": "./node_modules/redux-saga/es/internal/utils.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./internal/io": [
+    {
+      "id": 1,
+      "name": "./node_modules/redux-saga/es/internal/io.js",
+      "file": "client.js"
+    },
+    {
+      "id": 1,
+      "name": "./node_modules/redux-saga/es/internal/io.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./internal/channel": [
+    {
+      "id": 2,
+      "name": "./node_modules/redux-saga/es/internal/channel.js",
+      "file": "client.js"
+    },
+    {
+      "id": 2,
+      "name": "./node_modules/redux-saga/es/internal/channel.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./utils": [
+    {
+      "id": 3,
+      "name": "./node_modules/axios/lib/utils.js",
+      "file": "client.js"
+    },
+    {
+      "id": 3,
+      "name": "./node_modules/axios/lib/utils.js",
+      "file": "client.js.map"
+    }
+  ],
+  "prop-types": [
+    {
+      "id": 4,
+      "name": "./node_modules/prop-types/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 118,
+      "name": "./node_modules/react-loadable/node_modules/prop-types/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 4,
+      "name": "./node_modules/prop-types/index.js",
+      "file": "client.js.map"
+    },
+    {
+      "id": 118,
+      "name": "./node_modules/react-loadable/node_modules/prop-types/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_wks": [
+    {
+      "id": 5,
+      "name": "./node_modules/core-js/library/modules/_wks.js",
+      "file": "client.js"
+    },
+    {
+      "id": 5,
+      "name": "./node_modules/core-js/library/modules/_wks.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_global": [
+    {
+      "id": 6,
+      "name": "./node_modules/core-js/library/modules/_global.js",
+      "file": "client.js"
+    },
+    {
+      "id": 6,
+      "name": "./node_modules/core-js/library/modules/_global.js",
+      "file": "client.js.map"
+    }
+  ],
+  "react": [
+    {
+      "id": 7,
+      "name": "./node_modules/react/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 7,
+      "name": "./node_modules/react/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./internal/buffers": [
+    {
+      "id": 8,
+      "name": "./node_modules/redux-saga/es/internal/buffers.js",
+      "file": "client.js"
+    },
+    {
+      "id": 8,
+      "name": "./node_modules/redux-saga/es/internal/buffers.js",
+      "file": "client.js.map"
+    }
+  ],
+  "undefined": [
+    {
+      "id": 9,
+      "name": "./node_modules/redux-saga/es/internal/sagaHelpers/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 28,
+      "name": "./node_modules/redux/es/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 39,
+      "name": "./node_modules/lodash-es/isPlainObject.js",
+      "file": "client.js"
+    },
+    {
+      "id": 73,
+      "name": "./node_modules/react-redux/es/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 85,
+      "name": "./node_modules/redux-saga/es/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 9,
+      "name": "./node_modules/redux-saga/es/internal/sagaHelpers/index.js",
+      "file": "client.js.map"
+    },
+    {
+      "id": 28,
+      "name": "./node_modules/redux/es/index.js",
+      "file": "client.js.map"
+    },
+    {
+      "id": 39,
+      "name": "./node_modules/lodash-es/isPlainObject.js",
+      "file": "client.js.map"
+    },
+    {
+      "id": 73,
+      "name": "./node_modules/react-redux/es/index.js",
+      "file": "client.js.map"
+    },
+    {
+      "id": 85,
+      "name": "./node_modules/redux-saga/es/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../modules/_core": [
+    {
+      "id": 10,
+      "name": "./node_modules/core-js/library/modules/_core.js",
+      "file": "client.js"
+    },
+    {
+      "id": 10,
+      "name": "./node_modules/core-js/library/modules/_core.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_an-object": [
+    {
+      "id": 11,
+      "name": "./node_modules/core-js/library/modules/_an-object.js",
+      "file": "client.js"
+    },
+    {
+      "id": 11,
+      "name": "./node_modules/core-js/library/modules/_an-object.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_hide": [
+    {
+      "id": 12,
+      "name": "./node_modules/core-js/library/modules/_hide.js",
+      "file": "client.js"
+    },
+    {
+      "id": 12,
+      "name": "./node_modules/core-js/library/modules/_hide.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./scheduler": [
+    {
+      "id": 13,
+      "name": "./node_modules/redux-saga/es/internal/scheduler.js",
+      "file": "client.js"
+    },
+    {
+      "id": 13,
+      "name": "./node_modules/redux-saga/es/internal/scheduler.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_export": [
+    {
+      "id": 14,
+      "name": "./node_modules/core-js/library/modules/_export.js",
+      "file": "client.js"
+    },
+    {
+      "id": 14,
+      "name": "./node_modules/core-js/library/modules/_export.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_descriptors": [
+    {
+      "id": 15,
+      "name": "./node_modules/core-js/library/modules/_descriptors.js",
+      "file": "client.js"
+    },
+    {
+      "id": 15,
+      "name": "./node_modules/core-js/library/modules/_descriptors.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_is-object": [
+    {
+      "id": 16,
+      "name": "./node_modules/core-js/library/modules/_is-object.js",
+      "file": "client.js"
+    },
+    {
+      "id": 16,
+      "name": "./node_modules/core-js/library/modules/_is-object.js",
+      "file": "client.js.map"
+    }
+  ],
+  "fbjs/lib/emptyFunction": [
+    {
+      "id": 17,
+      "name": "./node_modules/fbjs/lib/emptyFunction.js",
+      "file": "client.js"
+    },
+    {
+      "id": 17,
+      "name": "./node_modules/fbjs/lib/emptyFunction.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_iterators": [
+    {
+      "id": 18,
+      "name": "./node_modules/core-js/library/modules/_iterators.js",
+      "file": "client.js"
+    },
+    {
+      "id": 18,
+      "name": "./node_modules/core-js/library/modules/_iterators.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_object-dp": [
+    {
+      "id": 19,
+      "name": "./node_modules/core-js/library/modules/_object-dp.js",
+      "file": "client.js"
+    },
+    {
+      "id": 19,
+      "name": "./node_modules/core-js/library/modules/_object-dp.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_has": [
+    {
+      "id": 20,
+      "name": "./node_modules/core-js/library/modules/_has.js",
+      "file": "client.js"
+    },
+    {
+      "id": 20,
+      "name": "./node_modules/core-js/library/modules/_has.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_cof": [
+    {
+      "id": 21,
+      "name": "./node_modules/core-js/library/modules/_cof.js",
+      "file": "client.js"
+    },
+    {
+      "id": 21,
+      "name": "./node_modules/core-js/library/modules/_cof.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_ctx": [
+    {
+      "id": 22,
+      "name": "./node_modules/core-js/library/modules/_ctx.js",
+      "file": "client.js"
+    },
+    {
+      "id": 22,
+      "name": "./node_modules/core-js/library/modules/_ctx.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_a-function": [
+    {
+      "id": 23,
+      "name": "./node_modules/core-js/library/modules/_a-function.js",
+      "file": "client.js"
+    },
+    {
+      "id": 23,
+      "name": "./node_modules/core-js/library/modules/_a-function.js",
+      "file": "client.js.map"
+    }
+  ],
+  "invariant": [
+    {
+      "id": 24,
+      "name": "./node_modules/invariant/browser.js",
+      "file": "client.js"
+    },
+    {
+      "id": 24,
+      "name": "./node_modules/invariant/browser.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_to-iobject": [
+    {
+      "id": 25,
+      "name": "./node_modules/core-js/library/modules/_to-iobject.js",
+      "file": "client.js"
+    },
+    {
+      "id": 25,
+      "name": "./node_modules/core-js/library/modules/_to-iobject.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_fails": [
+    {
+      "id": 26,
+      "name": "./node_modules/core-js/library/modules/_fails.js",
+      "file": "client.js"
+    },
+    {
+      "id": 26,
+      "name": "./node_modules/core-js/library/modules/_fails.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_set-to-string-tag": [
+    {
+      "id": 27,
+      "name": "./node_modules/core-js/library/modules/_set-to-string-tag.js",
+      "file": "client.js"
+    },
+    {
+      "id": 27,
+      "name": "./node_modules/core-js/library/modules/_set-to-string-tag.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./defaults": [
+    {
+      "id": 29,
+      "name": "./node_modules/axios/lib/defaults.js",
+      "file": "client.js"
+    },
+    {
+      "id": 29,
+      "name": "./node_modules/axios/lib/defaults.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./effects": [
+    {
+      "id": 30,
+      "name": "./node_modules/redux-saga/es/effects.js",
+      "file": "client.js"
+    },
+    {
+      "id": 30,
+      "name": "./node_modules/redux-saga/es/effects.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../../webpack/buildin/global.js": [
+    {
+      "id": 31,
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "client.js"
+    },
+    {
+      "id": 31,
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_new-promise-capability": [
+    {
+      "id": 32,
+      "name": "./node_modules/core-js/library/modules/_new-promise-capability.js",
+      "file": "client.js"
+    },
+    {
+      "id": 32,
+      "name": "./node_modules/core-js/library/modules/_new-promise-capability.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_shared-key": [
+    {
+      "id": 33,
+      "name": "./node_modules/core-js/library/modules/_shared-key.js",
+      "file": "client.js"
+    },
+    {
+      "id": 33,
+      "name": "./node_modules/core-js/library/modules/_shared-key.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_dom-create": [
+    {
+      "id": 34,
+      "name": "./node_modules/core-js/library/modules/_dom-create.js",
+      "file": "client.js"
+    },
+    {
+      "id": 34,
+      "name": "./node_modules/core-js/library/modules/_dom-create.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_defined": [
+    {
+      "id": 35,
+      "name": "./node_modules/core-js/library/modules/_defined.js",
+      "file": "client.js"
+    },
+    {
+      "id": 35,
+      "name": "./node_modules/core-js/library/modules/_defined.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_to-integer": [
+    {
+      "id": 36,
+      "name": "./node_modules/core-js/library/modules/_to-integer.js",
+      "file": "client.js"
+    },
+    {
+      "id": 36,
+      "name": "./node_modules/core-js/library/modules/_to-integer.js",
+      "file": "client.js.map"
+    }
+  ],
+  "babel-runtime/regenerator": [
+    {
+      "id": 37,
+      "name": "./node_modules/babel-runtime/regenerator/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 37,
+      "name": "./node_modules/babel-runtime/regenerator/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "symbol-observable": [
+    {
+      "id": 38,
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 38,
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_uid": [
+    {
+      "id": 40,
+      "name": "./node_modules/core-js/library/modules/_uid.js",
+      "file": "client.js"
+    },
+    {
+      "id": 40,
+      "name": "./node_modules/core-js/library/modules/_uid.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_object-keys": [
+    {
+      "id": 41,
+      "name": "./node_modules/core-js/library/modules/_object-keys.js",
+      "file": "client.js"
+    },
+    {
+      "id": 41,
+      "name": "./node_modules/core-js/library/modules/_object-keys.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_property-desc": [
+    {
+      "id": 42,
+      "name": "./node_modules/core-js/library/modules/_property-desc.js",
+      "file": "client.js"
+    },
+    {
+      "id": 42,
+      "name": "./node_modules/core-js/library/modules/_property-desc.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_library": [
+    {
+      "id": 43,
+      "name": "./node_modules/core-js/library/modules/_library.js",
+      "file": "client.js"
+    },
+    {
+      "id": 43,
+      "name": "./node_modules/core-js/library/modules/_library.js",
+      "file": "client.js.map"
+    }
+  ],
+  "react-loadable": [
+    {
+      "id": 44,
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 44,
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_to-object": [
+    {
+      "id": 45,
+      "name": "./node_modules/core-js/library/modules/_to-object.js",
+      "file": "client.js"
+    },
+    {
+      "id": 45,
+      "name": "./node_modules/core-js/library/modules/_to-object.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_enum-bug-keys": [
+    {
+      "id": 46,
+      "name": "./node_modules/core-js/library/modules/_enum-bug-keys.js",
+      "file": "client.js"
+    },
+    {
+      "id": 46,
+      "name": "./node_modules/core-js/library/modules/_enum-bug-keys.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_shared": [
+    {
+      "id": 47,
+      "name": "./node_modules/core-js/library/modules/_shared.js",
+      "file": "client.js"
+    },
+    {
+      "id": 47,
+      "name": "./node_modules/core-js/library/modules/_shared.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./cancel/Cancel": [
+    {
+      "id": 48,
+      "name": "./node_modules/axios/lib/cancel/Cancel.js",
+      "file": "client.js"
+    },
+    {
+      "id": 48,
+      "name": "./node_modules/axios/lib/cancel/Cancel.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./cancel/isCancel": [
+    {
+      "id": 49,
+      "name": "./node_modules/axios/lib/cancel/isCancel.js",
+      "file": "client.js"
+    },
+    {
+      "id": 49,
+      "name": "./node_modules/axios/lib/cancel/isCancel.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../core/createError": [
+    {
+      "id": 50,
+      "name": "./node_modules/axios/lib/core/createError.js",
+      "file": "client.js"
+    },
+    {
+      "id": 50,
+      "name": "./node_modules/axios/lib/core/createError.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./adapters/xhr": [
+    {
+      "id": 51,
+      "name": "./node_modules/axios/lib/adapters/xhr.js",
+      "file": "client.js"
+    },
+    {
+      "id": 51,
+      "name": "./node_modules/axios/lib/adapters/xhr.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./helpers/bind": [
+    {
+      "id": 52,
+      "name": "./node_modules/axios/lib/helpers/bind.js",
+      "file": "client.js"
+    },
+    {
+      "id": 52,
+      "name": "./node_modules/axios/lib/helpers/bind.js",
+      "file": "client.js.map"
+    }
+  ],
+  "babel-runtime/helpers/extends": [
+    {
+      "id": 53,
+      "name": "./node_modules/babel-runtime/helpers/extends.js",
+      "file": "client.js"
+    },
+    {
+      "id": 53,
+      "name": "./node_modules/babel-runtime/helpers/extends.js",
+      "file": "client.js.map"
+    }
+  ],
+  "fbjs/lib/invariant": [
+    {
+      "id": 54,
+      "name": "./node_modules/fbjs/lib/invariant.js",
+      "file": "client.js"
+    },
+    {
+      "id": 54,
+      "name": "./node_modules/fbjs/lib/invariant.js",
+      "file": "client.js.map"
+    }
+  ],
+  "fbjs/lib/emptyObject": [
+    {
+      "id": 55,
+      "name": "./node_modules/fbjs/lib/emptyObject.js",
+      "file": "client.js"
+    },
+    {
+      "id": 55,
+      "name": "./node_modules/fbjs/lib/emptyObject.js",
+      "file": "client.js.map"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": 56,
+      "name": "./node_modules/object-assign/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 56,
+      "name": "./node_modules/object-assign/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_promise-resolve": [
+    {
+      "id": 57,
+      "name": "./node_modules/core-js/library/modules/_promise-resolve.js",
+      "file": "client.js"
+    },
+    {
+      "id": 57,
+      "name": "./node_modules/core-js/library/modules/_promise-resolve.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_perform": [
+    {
+      "id": 58,
+      "name": "./node_modules/core-js/library/modules/_perform.js",
+      "file": "client.js"
+    },
+    {
+      "id": 58,
+      "name": "./node_modules/core-js/library/modules/_perform.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_task": [
+    {
+      "id": 59,
+      "name": "./node_modules/core-js/library/modules/_task.js",
+      "file": "client.js"
+    },
+    {
+      "id": 59,
+      "name": "./node_modules/core-js/library/modules/_task.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_species-constructor": [
+    {
+      "id": 60,
+      "name": "./node_modules/core-js/library/modules/_species-constructor.js",
+      "file": "client.js"
+    },
+    {
+      "id": 60,
+      "name": "./node_modules/core-js/library/modules/_species-constructor.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_classof": [
+    {
+      "id": 61,
+      "name": "./node_modules/core-js/library/modules/_classof.js",
+      "file": "client.js"
+    },
+    {
+      "id": 61,
+      "name": "./node_modules/core-js/library/modules/_classof.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_html": [
+    {
+      "id": 62,
+      "name": "./node_modules/core-js/library/modules/_html.js",
+      "file": "client.js"
+    },
+    {
+      "id": 62,
+      "name": "./node_modules/core-js/library/modules/_html.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_to-length": [
+    {
+      "id": 63,
+      "name": "./node_modules/core-js/library/modules/_to-length.js",
+      "file": "client.js"
+    },
+    {
+      "id": 63,
+      "name": "./node_modules/core-js/library/modules/_to-length.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_iobject": [
+    {
+      "id": 64,
+      "name": "./node_modules/core-js/library/modules/_iobject.js",
+      "file": "client.js"
+    },
+    {
+      "id": 64,
+      "name": "./node_modules/core-js/library/modules/_iobject.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_iter-define": [
+    {
+      "id": 65,
+      "name": "./node_modules/core-js/library/modules/_iter-define.js",
+      "file": "client.js"
+    },
+    {
+      "id": 65,
+      "name": "./node_modules/core-js/library/modules/_iter-define.js",
+      "file": "client.js.map"
+    }
+  ],
+  "babel-runtime/helpers/asyncToGenerator": [
+    {
+      "id": 66,
+      "name": "./node_modules/babel-runtime/helpers/asyncToGenerator.js",
+      "file": "client.js"
+    },
+    {
+      "id": 66,
+      "name": "./node_modules/babel-runtime/helpers/asyncToGenerator.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./ponyfill.js": [
+    {
+      "id": 67,
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "client.js"
+    },
+    {
+      "id": 67,
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "client.js.map"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": 68,
+      "name": "./node_modules/hoist-non-react-statics/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 68,
+      "name": "./node_modules/hoist-non-react-statics/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_object-pie": [
+    {
+      "id": 69,
+      "name": "./node_modules/core-js/library/modules/_object-pie.js",
+      "file": "client.js"
+    },
+    {
+      "id": 69,
+      "name": "./node_modules/core-js/library/modules/_object-pie.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_object-gops": [
+    {
+      "id": 70,
+      "name": "./node_modules/core-js/library/modules/_object-gops.js",
+      "file": "client.js"
+    },
+    {
+      "id": 70,
+      "name": "./node_modules/core-js/library/modules/_object-gops.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_object-create": [
+    {
+      "id": 71,
+      "name": "./node_modules/core-js/library/modules/_object-create.js",
+      "file": "client.js"
+    },
+    {
+      "id": 71,
+      "name": "./node_modules/core-js/library/modules/_object-create.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_to-primitive": [
+    {
+      "id": 72,
+      "name": "./node_modules/core-js/library/modules/_to-primitive.js",
+      "file": "client.js"
+    },
+    {
+      "id": 72,
+      "name": "./node_modules/core-js/library/modules/_to-primitive.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./Loading": [
+    {
+      "id": 74,
+      "name": "./components/common/Loading.jsx",
+      "file": "client.js"
+    },
+    {
+      "id": 74,
+      "name": "./components/common/Loading.jsx",
+      "file": "client.js.map"
+    }
+  ],
+  "../modules/web.dom.iterable": [
+    {
+      "id": 75,
+      "name": "./node_modules/core-js/library/modules/web.dom.iterable.js",
+      "file": "client.js"
+    },
+    {
+      "id": 75,
+      "name": "./node_modules/core-js/library/modules/web.dom.iterable.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_object-gpo": [
+    {
+      "id": 76,
+      "name": "./node_modules/core-js/library/modules/_object-gpo.js",
+      "file": "client.js"
+    },
+    {
+      "id": 76,
+      "name": "./node_modules/core-js/library/modules/_object-gpo.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_object-keys-internal": [
+    {
+      "id": 77,
+      "name": "./node_modules/core-js/library/modules/_object-keys-internal.js",
+      "file": "client.js"
+    },
+    {
+      "id": 77,
+      "name": "./node_modules/core-js/library/modules/_object-keys-internal.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_redefine": [
+    {
+      "id": 78,
+      "name": "./node_modules/core-js/library/modules/_redefine.js",
+      "file": "client.js"
+    },
+    {
+      "id": 78,
+      "name": "./node_modules/core-js/library/modules/_redefine.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_ie8-dom-define": [
+    {
+      "id": 79,
+      "name": "./node_modules/core-js/library/modules/_ie8-dom-define.js",
+      "file": "client.js"
+    },
+    {
+      "id": 79,
+      "name": "./node_modules/core-js/library/modules/_ie8-dom-define.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../modules/es6.string.iterator": [
+    {
+      "id": 80,
+      "name": "./node_modules/core-js/library/modules/es6.string.iterator.js",
+      "file": "client.js"
+    },
+    {
+      "id": 80,
+      "name": "./node_modules/core-js/library/modules/es6.string.iterator.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../modules/es6.object.to-string": [
+    {
+      "id": 81,
+      "name": "./node_modules/core-js/library/modules/es6.object.to-string.js",
+      "file": "client.js"
+    },
+    {
+      "id": 81,
+      "name": "./node_modules/core-js/library/modules/es6.object.to-string.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../actions/hits": [
+    {
+      "id": 83,
+      "name": "./actions/hits.js",
+      "file": "client.js"
+    },
+    {
+      "id": 83,
+      "name": "./actions/hits.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../actions/search": [
+    {
+      "id": 84,
+      "name": "./actions/search.js",
+      "file": "client.js"
+    },
+    {
+      "id": 84,
+      "name": "./actions/search.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../common/App": [
+    {
+      "id": 86,
+      "name": "./components/common/App.jsx",
+      "file": "client.js"
+    },
+    {
+      "id": 86,
+      "name": "./components/common/App.jsx",
+      "file": "client.js.map"
+    }
+  ],
+  "./helpers/spread": [
+    {
+      "id": 87,
+      "name": "./node_modules/axios/lib/helpers/spread.js",
+      "file": "client.js"
+    },
+    {
+      "id": 87,
+      "name": "./node_modules/axios/lib/helpers/spread.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./cancel/CancelToken": [
+    {
+      "id": 88,
+      "name": "./node_modules/axios/lib/cancel/CancelToken.js",
+      "file": "client.js"
+    },
+    {
+      "id": 88,
+      "name": "./node_modules/axios/lib/cancel/CancelToken.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../helpers/combineURLs": [
+    {
+      "id": 89,
+      "name": "./node_modules/axios/lib/helpers/combineURLs.js",
+      "file": "client.js"
+    },
+    {
+      "id": 89,
+      "name": "./node_modules/axios/lib/helpers/combineURLs.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../helpers/isAbsoluteURL": [
+    {
+      "id": 90,
+      "name": "./node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "file": "client.js"
+    },
+    {
+      "id": 90,
+      "name": "./node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./transformData": [
+    {
+      "id": 91,
+      "name": "./node_modules/axios/lib/core/transformData.js",
+      "file": "client.js"
+    },
+    {
+      "id": 91,
+      "name": "./node_modules/axios/lib/core/transformData.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./dispatchRequest": [
+    {
+      "id": 92,
+      "name": "./node_modules/axios/lib/core/dispatchRequest.js",
+      "file": "client.js"
+    },
+    {
+      "id": 92,
+      "name": "./node_modules/axios/lib/core/dispatchRequest.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./InterceptorManager": [
+    {
+      "id": 93,
+      "name": "./node_modules/axios/lib/core/InterceptorManager.js",
+      "file": "client.js"
+    },
+    {
+      "id": 93,
+      "name": "./node_modules/axios/lib/core/InterceptorManager.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../helpers/cookies": [
+    {
+      "id": 94,
+      "name": "./node_modules/axios/lib/helpers/cookies.js",
+      "file": "client.js"
+    },
+    {
+      "id": 94,
+      "name": "./node_modules/axios/lib/helpers/cookies.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../helpers/btoa": [
+    {
+      "id": 95,
+      "name": "./node_modules/axios/lib/helpers/btoa.js",
+      "file": "client.js"
+    },
+    {
+      "id": 95,
+      "name": "./node_modules/axios/lib/helpers/btoa.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../helpers/isURLSameOrigin": [
+    {
+      "id": 96,
+      "name": "./node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "file": "client.js"
+    },
+    {
+      "id": 96,
+      "name": "./node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../helpers/parseHeaders": [
+    {
+      "id": 97,
+      "name": "./node_modules/axios/lib/helpers/parseHeaders.js",
+      "file": "client.js"
+    },
+    {
+      "id": 97,
+      "name": "./node_modules/axios/lib/helpers/parseHeaders.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../helpers/buildURL": [
+    {
+      "id": 98,
+      "name": "./node_modules/axios/lib/helpers/buildURL.js",
+      "file": "client.js"
+    },
+    {
+      "id": 98,
+      "name": "./node_modules/axios/lib/helpers/buildURL.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./enhanceError": [
+    {
+      "id": 99,
+      "name": "./node_modules/axios/lib/core/enhanceError.js",
+      "file": "client.js"
+    },
+    {
+      "id": 99,
+      "name": "./node_modules/axios/lib/core/enhanceError.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../core/settle": [
+    {
+      "id": 100,
+      "name": "./node_modules/axios/lib/core/settle.js",
+      "file": "client.js"
+    },
+    {
+      "id": 100,
+      "name": "./node_modules/axios/lib/core/settle.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./helpers/normalizeHeaderName": [
+    {
+      "id": 101,
+      "name": "./node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "file": "client.js"
+    },
+    {
+      "id": 101,
+      "name": "./node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../../process/browser.js": [
+    {
+      "id": 102,
+      "name": "./node_modules/process/browser.js",
+      "file": "client.js"
+    },
+    {
+      "id": 102,
+      "name": "./node_modules/process/browser.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./core/Axios": [
+    {
+      "id": 103,
+      "name": "./node_modules/axios/lib/core/Axios.js",
+      "file": "client.js"
+    },
+    {
+      "id": 103,
+      "name": "./node_modules/axios/lib/core/Axios.js",
+      "file": "client.js.map"
+    }
+  ],
+  "is-buffer": [
+    {
+      "id": 104,
+      "name": "./node_modules/is-buffer/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 104,
+      "name": "./node_modules/is-buffer/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./lib/axios": [
+    {
+      "id": 105,
+      "name": "./node_modules/axios/lib/axios.js",
+      "file": "client.js"
+    },
+    {
+      "id": 105,
+      "name": "./node_modules/axios/lib/axios.js",
+      "file": "client.js.map"
+    }
+  ],
+  "axios": [
+    {
+      "id": 106,
+      "name": "./node_modules/axios/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 106,
+      "name": "./node_modules/axios/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../services/client/search": [
+    {
+      "id": 107,
+      "name": "./services/client/search.js",
+      "file": "client.js"
+    },
+    {
+      "id": 107,
+      "name": "./services/client/search.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../../sagas/": [
+    {
+      "id": 108,
+      "name": "./sagas/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 108,
+      "name": "./sagas/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./hits": [
+    {
+      "id": 109,
+      "name": "./reducers/hits.js",
+      "file": "client.js"
+    },
+    {
+      "id": 109,
+      "name": "./reducers/hits.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_object-assign": [
+    {
+      "id": 110,
+      "name": "./node_modules/core-js/library/modules/_object-assign.js",
+      "file": "client.js"
+    },
+    {
+      "id": 110,
+      "name": "./node_modules/core-js/library/modules/_object-assign.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../../modules/es6.object.assign": [
+    {
+      "id": 111,
+      "name": "./node_modules/core-js/library/modules/es6.object.assign.js",
+      "file": "client.js"
+    },
+    {
+      "id": 111,
+      "name": "./node_modules/core-js/library/modules/es6.object.assign.js",
+      "file": "client.js.map"
+    }
+  ],
+  "core-js/library/fn/object/assign": [
+    {
+      "id": 112,
+      "name": "./node_modules/core-js/library/fn/object/assign.js",
+      "file": "client.js"
+    },
+    {
+      "id": 112,
+      "name": "./node_modules/core-js/library/fn/object/assign.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../core-js/object/assign": [
+    {
+      "id": 113,
+      "name": "./node_modules/babel-runtime/core-js/object/assign.js",
+      "file": "client.js"
+    },
+    {
+      "id": 113,
+      "name": "./node_modules/babel-runtime/core-js/object/assign.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./search": [
+    {
+      "id": 114,
+      "name": "./reducers/search.js",
+      "file": "client.js"
+    },
+    {
+      "id": 114,
+      "name": "./reducers/search.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../../reducers/": [
+    {
+      "id": 115,
+      "name": "./reducers/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 115,
+      "name": "./reducers/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./lib/ReactPropTypesSecret": [
+    {
+      "id": 116,
+      "name": "./node_modules/react-loadable/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "client.js"
+    },
+    {
+      "id": 121,
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "client.js"
+    },
+    {
+      "id": 116,
+      "name": "./node_modules/react-loadable/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "client.js.map"
+    },
+    {
+      "id": 121,
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./factoryWithThrowingShims": [
+    {
+      "id": 117,
+      "name": "./node_modules/react-loadable/node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "client.js"
+    },
+    {
+      "id": 122,
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "client.js"
+    },
+    {
+      "id": 117,
+      "name": "./node_modules/react-loadable/node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "client.js.map"
+    },
+    {
+      "id": 122,
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "client.js.map"
+    }
+  ],
+  "redux-logger": [
+    {
+      "id": 119,
+      "name": "./node_modules/redux-logger/dist/redux-logger.js",
+      "file": "client.js"
+    },
+    {
+      "id": 119,
+      "name": "./node_modules/redux-logger/dist/redux-logger.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./../../webpack/buildin/harmony-module.js": [
+    {
+      "id": 120,
+      "name": "./node_modules/webpack/buildin/harmony-module.js",
+      "file": "client.js"
+    },
+    {
+      "id": 120,
+      "name": "./node_modules/webpack/buildin/harmony-module.js",
+      "file": "client.js.map"
+    }
+  ],
+  "fbjs/lib/focusNode": [
+    {
+      "id": 123,
+      "name": "./node_modules/fbjs/lib/focusNode.js",
+      "file": "client.js"
+    },
+    {
+      "id": 123,
+      "name": "./node_modules/fbjs/lib/focusNode.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./isNode": [
+    {
+      "id": 124,
+      "name": "./node_modules/fbjs/lib/isNode.js",
+      "file": "client.js"
+    },
+    {
+      "id": 124,
+      "name": "./node_modules/fbjs/lib/isNode.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./isTextNode": [
+    {
+      "id": 125,
+      "name": "./node_modules/fbjs/lib/isTextNode.js",
+      "file": "client.js"
+    },
+    {
+      "id": 125,
+      "name": "./node_modules/fbjs/lib/isTextNode.js",
+      "file": "client.js.map"
+    }
+  ],
+  "fbjs/lib/containsNode": [
+    {
+      "id": 126,
+      "name": "./node_modules/fbjs/lib/containsNode.js",
+      "file": "client.js"
+    },
+    {
+      "id": 126,
+      "name": "./node_modules/fbjs/lib/containsNode.js",
+      "file": "client.js.map"
+    }
+  ],
+  "fbjs/lib/shallowEqual": [
+    {
+      "id": 127,
+      "name": "./node_modules/fbjs/lib/shallowEqual.js",
+      "file": "client.js"
+    },
+    {
+      "id": 127,
+      "name": "./node_modules/fbjs/lib/shallowEqual.js",
+      "file": "client.js.map"
+    }
+  ],
+  "fbjs/lib/getActiveElement": [
+    {
+      "id": 128,
+      "name": "./node_modules/fbjs/lib/getActiveElement.js",
+      "file": "client.js"
+    },
+    {
+      "id": 128,
+      "name": "./node_modules/fbjs/lib/getActiveElement.js",
+      "file": "client.js.map"
+    }
+  ],
+  "fbjs/lib/EventListener": [
+    {
+      "id": 129,
+      "name": "./node_modules/fbjs/lib/EventListener.js",
+      "file": "client.js"
+    },
+    {
+      "id": 129,
+      "name": "./node_modules/fbjs/lib/EventListener.js",
+      "file": "client.js.map"
+    }
+  ],
+  "fbjs/lib/ExecutionEnvironment": [
+    {
+      "id": 130,
+      "name": "./node_modules/fbjs/lib/ExecutionEnvironment.js",
+      "file": "client.js"
+    },
+    {
+      "id": 130,
+      "name": "./node_modules/fbjs/lib/ExecutionEnvironment.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./cjs/react-dom.production.min.js": [
+    {
+      "id": 131,
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "client.js"
+    },
+    {
+      "id": 131,
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "client.js.map"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": 132,
+      "name": "./node_modules/react-dom/index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 132,
+      "name": "./node_modules/react-dom/index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./cjs/react.production.min.js": [
+    {
+      "id": 133,
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "client.js"
+    },
+    {
+      "id": 133,
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../modules/es7.promise.try": [
+    {
+      "id": 134,
+      "name": "./node_modules/core-js/library/modules/es7.promise.try.js",
+      "file": "client.js"
+    },
+    {
+      "id": 134,
+      "name": "./node_modules/core-js/library/modules/es7.promise.try.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../modules/es7.promise.finally": [
+    {
+      "id": 135,
+      "name": "./node_modules/core-js/library/modules/es7.promise.finally.js",
+      "file": "client.js"
+    },
+    {
+      "id": 135,
+      "name": "./node_modules/core-js/library/modules/es7.promise.finally.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_iter-detect": [
+    {
+      "id": 136,
+      "name": "./node_modules/core-js/library/modules/_iter-detect.js",
+      "file": "client.js"
+    },
+    {
+      "id": 136,
+      "name": "./node_modules/core-js/library/modules/_iter-detect.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_set-species": [
+    {
+      "id": 137,
+      "name": "./node_modules/core-js/library/modules/_set-species.js",
+      "file": "client.js"
+    },
+    {
+      "id": 137,
+      "name": "./node_modules/core-js/library/modules/_set-species.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_redefine-all": [
+    {
+      "id": 138,
+      "name": "./node_modules/core-js/library/modules/_redefine-all.js",
+      "file": "client.js"
+    },
+    {
+      "id": 138,
+      "name": "./node_modules/core-js/library/modules/_redefine-all.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_microtask": [
+    {
+      "id": 139,
+      "name": "./node_modules/core-js/library/modules/_microtask.js",
+      "file": "client.js"
+    },
+    {
+      "id": 139,
+      "name": "./node_modules/core-js/library/modules/_microtask.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_invoke": [
+    {
+      "id": 140,
+      "name": "./node_modules/core-js/library/modules/_invoke.js",
+      "file": "client.js"
+    },
+    {
+      "id": 140,
+      "name": "./node_modules/core-js/library/modules/_invoke.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./core.get-iterator-method": [
+    {
+      "id": 141,
+      "name": "./node_modules/core-js/library/modules/core.get-iterator-method.js",
+      "file": "client.js"
+    },
+    {
+      "id": 141,
+      "name": "./node_modules/core-js/library/modules/core.get-iterator-method.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_is-array-iter": [
+    {
+      "id": 142,
+      "name": "./node_modules/core-js/library/modules/_is-array-iter.js",
+      "file": "client.js"
+    },
+    {
+      "id": 142,
+      "name": "./node_modules/core-js/library/modules/_is-array-iter.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_iter-call": [
+    {
+      "id": 143,
+      "name": "./node_modules/core-js/library/modules/_iter-call.js",
+      "file": "client.js"
+    },
+    {
+      "id": 143,
+      "name": "./node_modules/core-js/library/modules/_iter-call.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_for-of": [
+    {
+      "id": 144,
+      "name": "./node_modules/core-js/library/modules/_for-of.js",
+      "file": "client.js"
+    },
+    {
+      "id": 144,
+      "name": "./node_modules/core-js/library/modules/_for-of.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_an-instance": [
+    {
+      "id": 145,
+      "name": "./node_modules/core-js/library/modules/_an-instance.js",
+      "file": "client.js"
+    },
+    {
+      "id": 145,
+      "name": "./node_modules/core-js/library/modules/_an-instance.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../modules/es6.promise": [
+    {
+      "id": 146,
+      "name": "./node_modules/core-js/library/modules/es6.promise.js",
+      "file": "client.js"
+    },
+    {
+      "id": 146,
+      "name": "./node_modules/core-js/library/modules/es6.promise.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_iter-step": [
+    {
+      "id": 147,
+      "name": "./node_modules/core-js/library/modules/_iter-step.js",
+      "file": "client.js"
+    },
+    {
+      "id": 147,
+      "name": "./node_modules/core-js/library/modules/_iter-step.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_add-to-unscopables": [
+    {
+      "id": 148,
+      "name": "./node_modules/core-js/library/modules/_add-to-unscopables.js",
+      "file": "client.js"
+    },
+    {
+      "id": 148,
+      "name": "./node_modules/core-js/library/modules/_add-to-unscopables.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./es6.array.iterator": [
+    {
+      "id": 149,
+      "name": "./node_modules/core-js/library/modules/es6.array.iterator.js",
+      "file": "client.js"
+    },
+    {
+      "id": 149,
+      "name": "./node_modules/core-js/library/modules/es6.array.iterator.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_to-absolute-index": [
+    {
+      "id": 150,
+      "name": "./node_modules/core-js/library/modules/_to-absolute-index.js",
+      "file": "client.js"
+    },
+    {
+      "id": 150,
+      "name": "./node_modules/core-js/library/modules/_to-absolute-index.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_array-includes": [
+    {
+      "id": 151,
+      "name": "./node_modules/core-js/library/modules/_array-includes.js",
+      "file": "client.js"
+    },
+    {
+      "id": 151,
+      "name": "./node_modules/core-js/library/modules/_array-includes.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_object-dps": [
+    {
+      "id": 152,
+      "name": "./node_modules/core-js/library/modules/_object-dps.js",
+      "file": "client.js"
+    },
+    {
+      "id": 152,
+      "name": "./node_modules/core-js/library/modules/_object-dps.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_iter-create": [
+    {
+      "id": 153,
+      "name": "./node_modules/core-js/library/modules/_iter-create.js",
+      "file": "client.js"
+    },
+    {
+      "id": 153,
+      "name": "./node_modules/core-js/library/modules/_iter-create.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./_string-at": [
+    {
+      "id": 154,
+      "name": "./node_modules/core-js/library/modules/_string-at.js",
+      "file": "client.js"
+    },
+    {
+      "id": 154,
+      "name": "./node_modules/core-js/library/modules/_string-at.js",
+      "file": "client.js.map"
+    }
+  ],
+  "core-js/library/fn/promise": [
+    {
+      "id": 155,
+      "name": "./node_modules/core-js/library/fn/promise.js",
+      "file": "client.js"
+    },
+    {
+      "id": 155,
+      "name": "./node_modules/core-js/library/fn/promise.js",
+      "file": "client.js.map"
+    }
+  ],
+  "../core-js/promise": [
+    {
+      "id": 156,
+      "name": "./node_modules/babel-runtime/core-js/promise.js",
+      "file": "client.js"
+    },
+    {
+      "id": 156,
+      "name": "./node_modules/babel-runtime/core-js/promise.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./runtime": [
+    {
+      "id": 157,
+      "name": "./node_modules/regenerator-runtime/runtime.js",
+      "file": "client.js"
+    },
+    {
+      "id": 157,
+      "name": "./node_modules/regenerator-runtime/runtime.js",
+      "file": "client.js.map"
+    }
+  ],
+  "regenerator-runtime": [
+    {
+      "id": 158,
+      "name": "./node_modules/regenerator-runtime/runtime-module.js",
+      "file": "client.js"
+    },
+    {
+      "id": 158,
+      "name": "./node_modules/regenerator-runtime/runtime-module.js",
+      "file": "client.js.map"
+    }
+  ],
+  "./components/client": [
+    {
+      "id": 159,
+      "name": "./components/client/index.jsx",
+      "file": "client.js"
+    },
+    {
+      "id": 159,
+      "name": "./components/client/index.jsx",
+      "file": "client.js.map"
+    }
+  ],
+  "./_freeGlobal.js": [
+    {
+      "id": 160,
+      "name": "./node_modules/lodash-es/_freeGlobal.js",
+      "file": "client.js"
+    },
+    {
+      "id": 160,
+      "name": "./node_modules/lodash-es/_freeGlobal.js",
+      "file": "client.js.map"
+    }
+  ]
+}

@@ -33,7 +33,7 @@ export default class Filter extends Component {
 
   render() {
     const { value } = this.props;
-    return (
+    return [
       <div style={{ margin: '30px 0' }} key="filter-1">
         <input
           type="text"
@@ -41,8 +41,9 @@ export default class Filter extends Component {
           onChange={e => this.handleOnChange(e)}
           value={value}
         />
-      </div>
-    );
+      </div>,
+      <hr key="filter-2" />,
+    ];
   }
 }
 

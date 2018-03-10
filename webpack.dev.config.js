@@ -1,13 +1,18 @@
+const webpack = require('webpack');
 const path = require('path');
+const { ReactLoadablePlugin } = require('react-loadable/webpack');
 
 module.exports = [
   {
     name: 'client',
     target: 'web',
-    entry: './components/client',
+    entry: {
+      client: './components/client',
+    },
     output: {
       path: path.resolve(__dirname, 'static'),
-      filename: 'client.js',
+      filename: '[name].js',
+      chunkFilename: '[name].js',
       publicPath: '/static/',
     },
     resolve: {
@@ -25,6 +30,11 @@ module.exports = [
         },
       ],
     },
+    plugins: [
+      new ReactLoadablePlugin({
+        filename: './react-loadable.json',
+      }),
+    ],
   },
   {
     name: 'server',
@@ -50,5 +60,10 @@ module.exports = [
         },
       ],
     },
+    plugins: [
+      new webpack.optimize.LimitChunkCountPlugin({
+        maxChunks: 1,
+      }),
+    ],
   },
 ];

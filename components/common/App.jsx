@@ -1,4 +1,10 @@
 import React from 'react';
-import Layout from './Layout';
+import Loadable from 'react-loadable';
+import Loading from './Loading';
 
-export default () => <Layout />;
+const LoadableLayout = Loadable({
+  loader: () => import('./Layout'),
+  loading: Loading,
+});
+
+export default () => <LoadableLayout />;
