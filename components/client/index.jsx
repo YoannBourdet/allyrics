@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import { applyMiddleware, combineReducers, createStore } from 'redux';
-import logger from 'redux-logger';
-import thunk from 'redux-thunk';
 import createSagaMiddleware from 'redux-saga';
+import logger from 'redux-logger';
+import Loadable from 'react-loadable';
 import { search, hits } from '../../reducers/';
 import AppSaga from '../../sagas/';
 import App from '../common/App';
@@ -16,15 +16,17 @@ const preloadedState = window.__INIT__;
 const store = createStore(
   combineReducers({ search, hits }),
   preloadedState,
-  applyMiddleware(thunk, logger, sagaMiddleware),
+  applyMiddleware(logger, sagaMiddleware),
 );
 
 // then run the saga
 sagaMiddleware.run(AppSaga);
 
-ReactDOM.hydrate(
-  <Provider store={store}>
-    <App />
-  </Provider>,
-  document.querySelector('.main'),
-);
+Loadable.preloadReady().then(() => {
+  ReactDOM.hydrate(
+    <Provider store={store}>
+      <App />
+    </Provider>,
+    document.querySelector('.main'),
+  );
+});
