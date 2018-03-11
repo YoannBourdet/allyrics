@@ -3,8 +3,9 @@ const webpack = require('webpack');
 const webpackDevMiddleware = require('webpack-dev-middleware');
 const webpackHotMiddleware = require('webpack-hot-middleware');
 const webpackHotServerMiddleware = require('webpack-hot-server-middleware');
-const api = require('./routes/api');
+const Loadable = require('react-loadable');
 
+const api = require('./routes/api');
 const config = require('./config');
 const webpackConfig = require('./webpack.dev.config.js');
 
@@ -20,7 +21,11 @@ app.use(
 );
 
 app.use(webpackHotMiddleware(compiler.compilers.find(c => c.name === 'client')));
-app.use(webpackHotServerMiddleware(compiler));
+
+app.get('/', webpackHotServerMiddleware(compiler));
 
 /* eslint no-console: 0 */
-app.listen(config.port, () => console.log(`App listening on port ${config.port}!`));
+(async () => {
+  await Loadable.preloadAll();
+  app.listen(config.port, () => console.log(`App listening on port ${config.port}!`));
+})();
